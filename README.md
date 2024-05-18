@@ -7,7 +7,7 @@ Java Full Stack Develper
 - 👯 I’m looking to collaborate on CHATGPT/ML
 - 🤔 I’m looking for work with good cultral IT company
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](#) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/nandhakumar-k-167b54284)
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](#) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/nandhakumar-full-stack-developer)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I Know full stack development.
 
